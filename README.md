@@ -1,5 +1,17 @@
 ### Hi there 👋
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=usulmund)](https://github.com/ryo-ma/github-profile-trophy)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kvl_nst&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usulmund&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usulmund&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usulmund&theme=solarized_dark)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usulmund)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -27,9 +39,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<!--
-**usulmund/usulmund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**usulmund/usulmund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://habr.com/ru/articles/649363/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
